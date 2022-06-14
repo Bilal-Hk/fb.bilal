@@ -1,7 +1,7 @@
 import os
 os.system ('clear')
-os.system ('clear')os.system ('sl')
-
+os.system ('clear')
+os.system ('sl')
 os.system ('figlet Facebook')
 print ("")
 print ("")
